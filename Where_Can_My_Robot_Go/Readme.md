@@ -1,11 +1,5 @@
 # Where Can My Robot Go?
-Challenge Information
-Challenge: Where Can My Robot Go?
-Points: 30
-Difficulty: Easy
-Category: Web Reconnaissance
-Technique: robots.txt Enumeration
-Steps to Solve
+
 ## 1. Check robots.txt
 
 The hint says:
